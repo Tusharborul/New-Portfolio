@@ -1,7 +1,7 @@
 export const PROJECT_DATA = [
   {
     position: "right",
-    link: "../../assets/Mart.png",
+    link: "https://raw.githubusercontent.com/Tusharborul/New-Portfolio/main/src/assets/Mart.png",
     title: "Youtube Clone",
     date: "(AUGUST 2023) 🚀",
     desc: "Built with React, Tailwind, and Redux, my YouTube clone offers efficient API calls with debouncing search filters, delivering top-notch user experience.",
