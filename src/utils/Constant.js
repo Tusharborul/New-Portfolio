@@ -2,12 +2,12 @@ export const PROJECT_DATA = [
   {
     position: "right",
     link: "https://raw.githubusercontent.com/Tusharborul/New-Portfolio/main/src/assets/Mart.png",
-    title: "Youtube Clone",
-    date: "(AUGUST 2023) 🚀",
-    desc: "Built with React, Tailwind, and Redux, my YouTube clone offers efficient API calls with debouncing search filters, delivering top-notch user experience.",
-    tags: ["tailwind", "React", "Redux", "Live Chat"],
-    live: "https://tushar-youtube-app.netlify.app/",
-    github: "https://github.com/tusharkhatri434/my-youtube",
+    title: "To-DO App",
+    date: "(FEBRUARY 2023) 📲",
+    desc: "My to-do app, designed with pure HTML, CSS, and JS, offers full CRUD functionality and responsive design for seamless task management.",
+    tags: ["Html", "CSS3", "JavaScript"],
+    live: "https://to-do-app-tushar-khatri.netlify.app/",
+    github: "https://github.com/tusharkhatri434/To-do_App",
   },
   {
     position: "left",
