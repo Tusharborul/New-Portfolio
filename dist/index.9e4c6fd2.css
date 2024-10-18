@@ -325,10 +325,6 @@ img, video {
   display: flex;
 }
 
-.h-40 {
-  height: 10rem;
-}
-
 .h-\[100vh\] {
   height: 100vh;
 }
@@ -348,10 +344,6 @@ img, video {
 .w-fit {
   width: -moz-fit-content;
   width: fit-content;
-}
-
-.w-full {
-  width: 100%;
 }
 
 .w-max {
@@ -485,11 +477,6 @@ img, video {
 .bg-white {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
-}
-
-.bg-zinc-800 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(39 39 42 / var(--tw-bg-opacity));
 }
 
 .object-cover {

@@ -1,7 +1,7 @@
 export const PROJECT_DATA = [
   {
     position: "right",
-    link: "https://raw.githubusercontent.com/Tusharborul/New-Portfolio/main/src/assets/Mart.png",
+    link: "https://raw.githubusercontent.com/Tusharborul/temp/main/Mart.png",
     title: "Mart Ecommerce-Website",
     date: "📲",
     desc: "Crafted a dynamic e-commerce site using HTML, CSS, and JS. Achieved seamless navigation, responsive design, and interactive features for an elegant and functional online shopping experience.",
@@ -11,7 +11,7 @@ export const PROJECT_DATA = [
   },
   {
     position: "left",
-    link: "https://raw.githubusercontent.com/Tusharborul/New-Portfolio/main/src/assets/coffee-shop.png",
+    link: "https://raw.githubusercontent.com/Tusharborul/temp/main/coffee-shop.png",
     title: "Coffee-Shop",
     date: " ☕",
     desc: "Built a lively coffee shop website using HTML, CSS, and JS. Featuring a user-friendly design, responsive layout, and interactive elements for a delightful online experience.",
@@ -21,7 +21,7 @@ export const PROJECT_DATA = [
   },
   {
     position: "right",
-    link: "https://raw.githubusercontent.com/Tusharborul/New-Portfolio/main/src/assets/To-Do-List.png",
+    link: "https://raw.githubusercontent.com/Tusharborul/temp/main/To-Do-List.png",
     title: "To-DO App",
     date: "(FEBRUARY 2023) 📲",
     desc: "My to-do app, designed with pure HTML, CSS, and JS, offers full CRUD functionality and responsive design for seamless task management.",
@@ -31,7 +31,7 @@ export const PROJECT_DATA = [
   },
   {
     position: "left",
-    link: "https://raw.githubusercontent.com/Tusharborul/New-Portfolio/main/src/assets/2048.png",
+    link: "https://raw.githubusercontent.com/Tusharborul/temp/main/2048.png",
     title: "2048 Game",
     date: "🎮",
     desc: "Designed and implemented a captivating 2048 game website with HTML, CSS, and JS. Delivered seamless gameplay, sleek visuals, and an engaging user interface for an immersive gaming experience.",
@@ -41,7 +41,7 @@ export const PROJECT_DATA = [
   },
   {
     position: "right",
-    link: "https://raw.githubusercontent.com/Tusharborul/New-Portfolio/main/src/assets/tic-tac-toe.png",
+    link: "https://raw.githubusercontent.com/Tusharborul/temp/main/tic-tac-toe.png",
     title: "Tic Tac Toe Game",
     date: "🎮",
     desc: "Designed and coded a Tic-Tac-Toe game website using HTML, CSS, and JS. Implemented sleek visuals and responsive functionality for an immersive gaming experience, symbolizing strategic fun.",
