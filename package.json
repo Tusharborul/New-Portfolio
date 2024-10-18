@@ -17,7 +17,7 @@
     "braces": "^3.0.2",
     "browserslist": "^4.22.1",
     "callsites": "^3.1.0",
-    "caniuse-lite": "^1.0.30001549",
+    "caniuse-lite": "^1.0.30001669",
     "chalk": "^4.1.2",
     "chrome-trace-event": "^1.0.3",
     "clone": "^2.1.2",
@@ -58,6 +58,7 @@
     "json-parse-even-better-errors": "^2.3.1",
     "json5": "^2.2.3",
     "lightningcss": "^1.22.0",
+    "lightningcss-win32-x64-msvc": "^1.22.0",
     "lines-and-columns": "^1.2.4",
     "lmdb": "^2.8.5",
     "lru-cache": "^6.0.0",
@@ -105,9 +106,6 @@
     "weak-lru-cache": "^1.2.2",
     "yallist": "^4.0.0"
   },
-  "optionalDependencies": {
-  "lightningcss-win32-x64-msvc": "1.22.0"
-},
   "scripts": {
     "start": "parcel ./Public/index.html",
     "build": "parcel build ./Public/index.html",
