@@ -58,7 +58,6 @@
     "json-parse-even-better-errors": "^2.3.1",
     "json5": "^2.2.3",
     "lightningcss": "^1.22.0",
-    "lightningcss-win32-x64-msvc": "^1.22.0",
     "lines-and-columns": "^1.2.4",
     "lmdb": "^2.8.5",
     "lru-cache": "^6.0.0",
@@ -106,6 +105,9 @@
     "weak-lru-cache": "^1.2.2",
     "yallist": "^4.0.0"
   },
+  "optionalDependencies": {
+  "lightningcss-win32-x64-msvc": "1.22.0"
+},
   "scripts": {
     "start": "parcel ./Public/index.html",
     "build": "parcel build ./Public/index.html",
