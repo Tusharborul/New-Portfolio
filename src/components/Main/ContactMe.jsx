@@ -15,7 +15,7 @@ const ContactMe = () => {
           </span>
           <div className="flex flex-col">
             <span className="text-xl font-bold">Location</span>
-            <span className="text-xl text-zinc-500">Meerut , India</span>
+            <span className="text-xl text-zinc-500">Pune, India</span>
           </div>
         </div>
         <div>
@@ -27,9 +27,9 @@ const ContactMe = () => {
               <span className="text-xl font-bold">Mail</span>
               <a
                 className="text-zinc-500 hover:text-blue-500"
-                href="mailto:tusharKhatri1001@gamil.com"
+                href="mailto:Tusharborul45@gamil.com"
               >
-                <span className="text-xl ">tusharKhatri1001@gamil.com</span>
+                <span className="text-xl ">Tusharborul45@gamil.com</span>
               </a>
             </div>
           </div>
