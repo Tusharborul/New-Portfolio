@@ -9,6 +9,7 @@
   "version": "1.0.0",
   "description": "my personal portfolio",
   "dependencies": {
+    "@parcel/watcher": "^2.4.1",
     "abortcontroller-polyfill": "^1.7.5",
     "ansi-styles": "^4.3.0",
     "argparse": "^2.0.1",
