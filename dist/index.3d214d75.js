@@ -70680,43 +70680,15 @@ const HeroSection = ()=>{
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                             className: "flex gap-5 w-max flex-wrap max-sm:justify-center",
-                            children: [
-                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                                    src: "https://skillicons.dev/icons?i=html,css",
-                                    alt: "HTML & CSS"
-                                }, void 0, false, {
-                                    fileName: "src/components/Main/HeroSection.jsx",
-                                    lineNumber: 67,
-                                    columnNumber: 13
-                                }, undefined),
-                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                                    src: "https://skillicons.dev/icons?i=react,redux",
-                                    alt: "react redux"
-                                }, void 0, false, {
-                                    fileName: "src/components/Main/HeroSection.jsx",
-                                    lineNumber: 72,
-                                    columnNumber: 13
-                                }, undefined),
-                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                                    src: "https://skillicons.dev/icons?i=tailwind,bootstrap,sass",
-                                    alt: "",
-                                    tailwind: true,
-                                    sass: true
-                                }, void 0, false, {
-                                    fileName: "src/components/Main/HeroSection.jsx",
-                                    lineNumber: 76,
-                                    columnNumber: 13
-                                }, undefined),
-                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                                    src: "https://skillicons.dev/icons?i=git,github",
-                                    alt: "git github"
-                                }, void 0, false, {
-                                    fileName: "src/components/Main/HeroSection.jsx",
-                                    lineNumber: 82,
-                                    columnNumber: 13
-                                }, undefined)
-                            ]
-                        }, void 0, true, {
+                            children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
+                                src: "https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,nodejs,java,mysql,git,github,",
+                                alt: "html,css,tailwind,bootstrap,javascript,react,nodejs,java,mysql,git,github"
+                            }, void 0, false, {
+                                fileName: "src/components/Main/HeroSection.jsx",
+                                lineNumber: 67,
+                                columnNumber: 13
+                            }, undefined)
+                        }, void 0, false, {
                             fileName: "src/components/Main/HeroSection.jsx",
                             lineNumber: 66,
                             columnNumber: 11

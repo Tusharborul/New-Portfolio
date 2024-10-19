@@ -65,23 +65,8 @@ const HeroSection = () => {
           </div>
           <div className="flex gap-5 w-max flex-wrap max-sm:justify-center">
             <img
-              src="https://skillicons.dev/icons?i=html,css"
-              alt="HTML & CSS"
-            />
-
-            <img
-              src="https://skillicons.dev/icons?i=react,redux"
-              alt="react redux"
-            />
-            <img
-              src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass"
-              alt=""
-              tailwind
-              sass
-            />
-            <img
-              src="https://skillicons.dev/icons?i=git,github"
-              alt="git github"
+              src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,nodejs,java,mysql,git,github,"
+              alt="html,css,tailwind,bootstrap,javascript,react,nodejs,java,mysql,git,github"
             />
           </div>
         </div>
