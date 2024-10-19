@@ -342,7 +342,6 @@ img, video {
 }
 
 .w-fit {
-  width: -moz-fit-content;
   width: fit-content;
 }
 

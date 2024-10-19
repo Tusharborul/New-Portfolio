@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import profile from "../../assets/profile.jpeg";
 import { LiaLinkedin } from "react-icons/lia";
 import { FiGithub } from "react-icons/fi";
 import { FaLink } from "react-icons/fa";
@@ -53,7 +52,7 @@ const HeroSection = () => {
           <div className="w-96">
             <img
               className="rounded-full border-4 border-cyan-800 max-sm:w-64 max-sm:mx-auto"
-              src={profile}
+              src={"https://raw.githubusercontent.com/Tusharborul/temp/main/profile.jpeg"}
               alt="profile-image"
             ></img>
           </div>

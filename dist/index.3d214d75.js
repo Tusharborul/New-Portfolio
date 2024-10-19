@@ -70512,8 +70512,6 @@ parcelHelpers.defineInteropFlag(exports);
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
 var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
-var _profileJpeg = require("../../assets/profile.jpeg");
-var _profileJpegDefault = parcelHelpers.interopDefault(_profileJpeg);
 var _lia = require("react-icons/lia");
 var _fi = require("react-icons/fi");
 var _fa = require("react-icons/fa");
@@ -70543,7 +70541,7 @@ const HeroSection = ()=>{
                                     children: "Front-End React Developer\uD83D\uDC4B"
                                 }, void 0, false, {
                                     fileName: "src/components/Main/HeroSection.jsx",
-                                    lineNumber: 21,
+                                    lineNumber: 20,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -70551,7 +70549,7 @@ const HeroSection = ()=>{
                                     children: "Hi, I'm Tushar Borul. A passionate Front-end React Developer, India. \uD83D\uDCCD"
                                 }, void 0, false, {
                                     fileName: "src/components/Main/HeroSection.jsx",
-                                    lineNumber: 24,
+                                    lineNumber: 23,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -70565,12 +70563,12 @@ const HeroSection = ()=>{
                                                 size: "2.2rem"
                                             }, void 0, false, {
                                                 fileName: "src/components/Main/HeroSection.jsx",
-                                                lineNumber: 34,
+                                                lineNumber: 33,
                                                 columnNumber: 17
                                             }, undefined)
                                         }, void 0, false, {
                                             fileName: "src/components/Main/HeroSection.jsx",
-                                            lineNumber: 29,
+                                            lineNumber: 28,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -70581,12 +70579,12 @@ const HeroSection = ()=>{
                                                 size: "2rem"
                                             }, void 0, false, {
                                                 fileName: "src/components/Main/HeroSection.jsx",
-                                                lineNumber: 41,
+                                                lineNumber: 40,
                                                 columnNumber: 17
                                             }, undefined)
                                         }, void 0, false, {
                                             fileName: "src/components/Main/HeroSection.jsx",
-                                            lineNumber: 36,
+                                            lineNumber: 35,
                                             columnNumber: 15
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -70599,54 +70597,54 @@ const HeroSection = ()=>{
                                                     children: "Resume"
                                                 }, void 0, false, {
                                                     fileName: "src/components/Main/HeroSection.jsx",
-                                                    lineNumber: 48,
+                                                    lineNumber: 47,
                                                     columnNumber: 17
                                                 }, undefined),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _fa.FaLink), {
                                                     size: "1rem"
                                                 }, void 0, false, {
                                                     fileName: "src/components/Main/HeroSection.jsx",
-                                                    lineNumber: 49,
+                                                    lineNumber: 48,
                                                     columnNumber: 17
                                                 }, undefined)
                                             ]
                                         }, void 0, true, {
                                             fileName: "src/components/Main/HeroSection.jsx",
-                                            lineNumber: 43,
+                                            lineNumber: 42,
                                             columnNumber: 15
                                         }, undefined)
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/components/Main/HeroSection.jsx",
-                                    lineNumber: 28,
+                                    lineNumber: 27,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/components/Main/HeroSection.jsx",
-                            lineNumber: 20,
+                            lineNumber: 19,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                             className: "w-96",
                             children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                                 className: "rounded-full border-4 border-cyan-800 max-sm:w-64 max-sm:mx-auto",
-                                src: (0, _profileJpegDefault.default),
+                                src: "https://raw.githubusercontent.com/Tusharborul/temp/main/profile.jpeg",
                                 alt: "profile-image"
                             }, void 0, false, {
                                 fileName: "src/components/Main/HeroSection.jsx",
-                                lineNumber: 54,
+                                lineNumber: 53,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/components/Main/HeroSection.jsx",
-                            lineNumber: 53,
+                            lineNumber: 52,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/components/Main/HeroSection.jsx",
-                    lineNumber: 19,
+                    lineNumber: 18,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -70662,13 +70660,13 @@ const HeroSection = ()=>{
                                     children: "|"
                                 }, void 0, false, {
                                     fileName: "src/components/Main/HeroSection.jsx",
-                                    lineNumber: 65,
+                                    lineNumber: 64,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/components/Main/HeroSection.jsx",
-                            lineNumber: 63,
+                            lineNumber: 62,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -70679,7 +70677,7 @@ const HeroSection = ()=>{
                                     alt: "HTML & CSS"
                                 }, void 0, false, {
                                     fileName: "src/components/Main/HeroSection.jsx",
-                                    lineNumber: 68,
+                                    lineNumber: 67,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -70687,7 +70685,7 @@ const HeroSection = ()=>{
                                     alt: "react redux"
                                 }, void 0, false, {
                                     fileName: "src/components/Main/HeroSection.jsx",
-                                    lineNumber: 73,
+                                    lineNumber: 72,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -70697,7 +70695,7 @@ const HeroSection = ()=>{
                                     sass: true
                                 }, void 0, false, {
                                     fileName: "src/components/Main/HeroSection.jsx",
-                                    lineNumber: 77,
+                                    lineNumber: 76,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -70705,30 +70703,30 @@ const HeroSection = ()=>{
                                     alt: "git github"
                                 }, void 0, false, {
                                     fileName: "src/components/Main/HeroSection.jsx",
-                                    lineNumber: 83,
+                                    lineNumber: 82,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/components/Main/HeroSection.jsx",
-                            lineNumber: 67,
+                            lineNumber: 66,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/components/Main/HeroSection.jsx",
-                    lineNumber: 62,
+                    lineNumber: 61,
                     columnNumber: 9
                 }, undefined)
             ]
         }, void 0, true, {
             fileName: "src/components/Main/HeroSection.jsx",
-            lineNumber: 18,
+            lineNumber: 17,
             columnNumber: 7
         }, undefined)
     }, void 0, false, {
         fileName: "src/components/Main/HeroSection.jsx",
-        lineNumber: 17,
+        lineNumber: 16,
         columnNumber: 5
     }, undefined);
 };
