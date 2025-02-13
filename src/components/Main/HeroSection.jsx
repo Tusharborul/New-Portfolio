@@ -17,11 +17,11 @@ const HeroSection = () => {
       <div className="max-w-5xl mx-auto px-8  bg-stone-50">
         <div className="flex max-[500px]:flex-col-reverse items-center">
           <div className="max-w-lg">
-            <h1 className="text-5xl px-3 font-bold text-zinc-700 max-sm:text-4xl max-sm:text-center max-sm:pt-2">
-              Front-End React Developer👋
+            <h1 className="text-4xl px-3 font-bold text-zinc-700 max-sm:text-4xl max-sm:text-center max-sm:pt-2">
+              Full Stack    Developer👋
             </h1>
             <p className="text-lg mt-4 px-3 text-neutral-600 max-sm:px-0 max-sm:text-center">
-              Hi, I'm Tushar Borul. A passionate Front-end React Developer,
+              Hi, I'm Tushar Borul. A passionate Full Stack Developer,
               India. 📍
             </p>
             <span className="flex flex-row px-3 py-2 gap-2 max-sm:justify-center">

@@ -27,7 +27,7 @@ const ProjectCard = ({ data }) => {
           {data.title}
           <span className="mx-1">{data.date}</span>
         </li>
-        <li className="text-lg font-medium  text-zinc-500 mt-2 text-center px-12">
+        <li className="text-lg font-medium  text-zinc-500 mt-2 text-left px-12 ">
           {data.desc}
         </li>
         <li className="mt-3 flex flex-wrap justify-center">

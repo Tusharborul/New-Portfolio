@@ -1,21 +1,30 @@
 import React from "react";
-import img from "../../assets/img1.webp"
+import img from "../../assets/photo.avif"
 const AboutMe = () => {
   return (
-    <div id="about" className="flex gap-10 max-w-5xl mx-auto py-24 max-sm:flex-wrap">
-      <img className="w-2/5 rounded-lg mr-7 max-sm:w-4/5 max-sm:mx-auto" src={img} alt="" />
-      <ul className="flex flex-col gap-2 p-3">
-        <li className="text-blue-600 font-bold text-lg text-center">ABOUT ME</li>
-        <li className="text-2xl font-bold text-zinc-800 text-center">Front-End Developer</li>
-        <li className="text-lg text-neutral-500 text-center" >
-        Hello, I am Tushar Borul, a passionate Front End Developer dedicated to creating engaging and user-friendly web experiences. With a robust foundation in HTML, CSS, JavaScript, and React.js. I specialize in building responsive and efficient web applications.
+    <div id="about" className="flex gap-10 w-full bg-gray-100 rounded-lg shadow-lg p-6">
 
-I hold a B.E. in Electronics and Telecommunication Engineering from Aditya Engineering College, Beed, and a Diploma from Shri. Shivaji Polytechnic Institute, Parbhani. My portfolio includes projects like an e-commerce website, a to-do app, and a Tic-Tac-Toe game, showcasing my ability to develop dynamic and scalable web solutions.
-Let's connect to discuss how I can contribute to your next project.
-        </li>
-      </ul>
+      <div className="flex gap-10 max-w-5xl mx-auto py-24 max-sm:flex-wrap">
+        <img className="w-2/5 rounded-lg mr-7 max-sm:w-4/5 max-sm:mx-auto" src={img} alt="" />
+        <ul className="flex flex-col gap-2 p-3">
+          <li className="text-blue-600 font-bold text-lg text-center">ABOUT ME</li>
+          <li className="text-2xl font-bold text-blue-600 text-center">Front-End Developer</li>
+
+          <li className="text-lg text-gray-700 text-left mb-2" >
+
+            I am a driven and passionate Full Stack Developer with hands-on experience in building dynamic web applications and robust backend systems. My technical stack includes HTML5, CSS3, JavaScript, ReactJS, Node.js, Spring Boot, Advanced Java, Core Java, ASP.NET (C#), JSP, and Hibernate. I am eager to apply my skills and knowledge to build innovative solutions in the IT sector.
+          </li>
+          <li className="text-lg text-gray-700 text-left mb-2" >
+            I have successfully completed my PG-DAC course and hold a B.E. degree. I am now eager to apply my skills and knowledge to build innovative solutions in the IT sector.
+          </li>
+          <li className="text-lg text-gray-700 text-left mb-2" >
+            Actively seeking opportunities to join a team where I can grow, learn, and contribute to impactful projects.
+            <span className="text-blue-500 font-semibold">Let's connect!</span>
+
+          </li>
+        </ul>
+      </div>
     </div>
   );
 };
-
 export default AboutMe;

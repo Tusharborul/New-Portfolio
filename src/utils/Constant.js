@@ -1,6 +1,16 @@
 export const PROJECT_DATA = [
   {
     position: "right",
+    link: "https://raw.githubusercontent.com/Tusharborul/temp/main/parking_website.png",
+    title: "Mart Ecommerce-Website",
+    date: "🚗",
+    desc: "SOLID principles with Spring Data JPA. Razorpay payments & refunds, JWT auth, dashboards for account & parking management, user reviews.",
+    tags: ["react.js", "springboot", "Asp.net", "JWT Token", "java", "c#", "bootstrap"],
+    live: "https://github.com/Tusharborul/Online-Car-Parking-Application.git",
+    github: "https://github.com/Tusharborul/Online-Car-Parking-Application.git",
+  },
+  {
+    position: "left",
     link: "https://raw.githubusercontent.com/Tusharborul/temp/main/Mart.png",
     title: "Mart Ecommerce-Website",
     date: "📲",
@@ -10,7 +20,7 @@ export const PROJECT_DATA = [
     github: "https://github.com/Tusharborul/Ecommerce-Website.git",
   },
   {
-    position: "left",
+    position: "right",
     link: "https://raw.githubusercontent.com/Tusharborul/temp/main/coffee-shop.png",
     title: "Coffee-Shop",
     date: " ☕",
@@ -20,7 +30,7 @@ export const PROJECT_DATA = [
     github: "https://github.com/Tusharborul/Coffee-Shop.git",
   },
   {
-    position: "right",
+    position: "left",
     link: "https://raw.githubusercontent.com/Tusharborul/temp/main/To-Do-List.png",
     title: "To-DO App",
     date: "(FEBRUARY 2023) 📲",
@@ -30,7 +40,7 @@ export const PROJECT_DATA = [
     github: "https://github.com/Tusharborul/To-Do-List.git",
   },
   {
-    position: "left",
+    position: "right",
     link: "https://raw.githubusercontent.com/Tusharborul/temp/main/2048.png",
     title: "2048 Game",
     date: "🎮",
@@ -40,7 +50,7 @@ export const PROJECT_DATA = [
     github: "https://github.com/Tusharborul/2048-Game.git",
   },
   {
-    position: "right",
+    position: "left",
     link: "https://raw.githubusercontent.com/Tusharborul/temp/main/tic-tac-toe.png",
     title: "Tic Tac Toe Game",
     date: "🎮",
