@@ -70582,8 +70582,8 @@ const HeroSection = ()=>{
                             className: "max-w-lg",
                             children: [
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
-                                    className: "text-5xl px-3 font-bold text-zinc-700 max-sm:text-4xl max-sm:text-center max-sm:pt-2",
-                                    children: "Front-End React Developer\uD83D\uDC4B"
+                                    className: "text-4xl px-3 font-bold text-zinc-700 max-sm:text-4xl max-sm:text-center max-sm:pt-2",
+                                    children: "Full Stack    Developer\uD83D\uDC4B"
                                 }, void 0, false, {
                                     fileName: "src/components/Main/HeroSection.jsx",
                                     lineNumber: 20,
@@ -70591,7 +70591,7 @@ const HeroSection = ()=>{
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                                     className: "text-lg mt-4 px-3 text-neutral-600 max-sm:px-0 max-sm:text-center",
-                                    children: "Hi, I'm Tushar Borul. A passionate Front-end React Developer, India. \uD83D\uDCCD"
+                                    children: "Hi, I'm Tushar Borul. A passionate Full Stack Developer, India. \uD83D\uDCCD"
                                 }, void 0, false, {
                                     fileName: "src/components/Main/HeroSection.jsx",
                                     lineNumber: 23,
@@ -70634,7 +70634,7 @@ const HeroSection = ()=>{
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
                                             className: "hover:text-blue-600 flex items-center gap-2 bg-black text-white rounded-lg px-2 hover:text-lime-300",
-                                            href: "https://drive.google.com/file/d/15sTsErbpM_h0qAU_1q74q0mORsQtLoMI/view?usp=sharing",
+                                            href: "https://drive.google.com/file/d/18esBL79lb4Z4quALiCf7VEnplNhmEt1D/view?usp=sharing",
                                             target: "blank",
                                             children: [
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -70717,8 +70717,8 @@ const HeroSection = ()=>{
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                             className: "flex gap-5 w-max flex-wrap max-sm:justify-center",
                             children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                                src: "https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,nodejs,java,mysql,git,github,",
-                                alt: "html,css,tailwind,bootstrap,javascript,react,nodejs,java,mysql,git,github"
+                                src: "https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nodejs,jquery,java,cs,cpp,dotnet,mysql,aws,docker,git,github,eclipse,visualstudio,vscode",
+                                alt: "html,css,bootstrap,javascript,react,nodejs,jquery,java,cs,cpp,dotnet,mysql,aws,docker,git,github,eclipse,visualstudio,vscode"
                             }, void 0, false, {
                                 fileName: "src/components/Main/HeroSection.jsx",
                                 lineNumber: 67,
@@ -135162,7 +135162,7 @@ $RefreshReg$(_c, "AboutMe");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../../assets/photo.avif":"eBlLH"}],"eBlLH":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../assets/photo.avif":"eBlLH","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"eBlLH":[function(require,module,exports,__globalThis) {
 module.exports = require("727eb281b46cd48c").getBundleURL('UckoE') + "photo.8c797836.avif" + "?" + Date.now();
 
 },{"727eb281b46cd48c":"lgJ39"}],"lgJ39":[function(require,module,exports,__globalThis) {
@@ -135337,7 +135337,7 @@ const ProjectCard = ({ data })=>{
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
-                        className: "text-lg font-medium  text-zinc-500 mt-2 text-center px-12",
+                        className: "text-lg font-medium  text-zinc-500 mt-2 text-left px-12 ",
                         children: data.desc
                     }, void 0, false, {
                         fileName: "src/components/Main/ProjectCard.jsx",
@@ -361842,14 +361842,11 @@ parcelHelpers.export(exports, "PROJECT_DATA", ()=>PROJECT_DATA);
 const PROJECT_DATA = [
     {
         position: "right",
-        link: "https://raw.githubusercontent.com/Tusharborul/temp/main/Mart.png",
+        link: "https://raw.githubusercontent.com/Tusharborul/temp/main/parking_website.png",
         title: "Mart Ecommerce-Website",
         date: "\uD83D\uDE97",
-        desc: "Frontend: Built dynamic, responsive user interfaces using React.js with Bootstrap. Backend: Designed scalable services with Java, Spring Boot, c#, Asp.net , adhering to SOLID principles and managing data operations with Spring Data JPA. Database: Mysql to store and retrieve data. Key Functionalities:Advanced reservation management with payment and refund processing via Razorpay. Secure authentication using JWT Token. User-friendly dashboards for account and parking spot management. A review system for user to rate parking locations.",
+        desc: "SOLID principles with Spring Data JPA. Razorpay payments & refunds, JWT auth, dashboards for account & parking management, user reviews.",
         tags: [
-            "Html",
-            "CSS3",
-            "JavaScript",
             "react.js",
             "springboot",
             "Asp.net",
@@ -361950,22 +361947,22 @@ var _bi = require("react-icons/bi");
 const ContactMe = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         id: "contact",
-        className: "max-w-5xl mx-auto my-32 bg-stone-50",
+        className: "pt-20 flex flex-wrap flex-col pb-32 gap-10 bg-white rounded-lg shadow-lg",
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "mb-16 text-3xl max-sm:text-center",
+                className: "mb-16 text-4xl max-sm:text-center text-center",
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
-                        className: "text-blue-500 font-bold",
-                        children: "CONTACT"
+                        className: "text-blue-600 font-bold",
+                        children: "Contact Us"
                     }, void 0, false, {
                         fileName: "src/components/Main/ContactMe.jsx",
                         lineNumber: 9,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                        className: "font-bold",
-                        children: "Don't be shy! Hit me up! \uD83D\uDC47"
+                        className: "font-semibold text-gray-700",
+                        children: "Feel free to reach out! \uD83D\uDC47"
                     }, void 0, false, {
                         fileName: "src/components/Main/ContactMe.jsx",
                         lineNumber: 10,
@@ -362004,7 +362001,7 @@ const ContactMe = ()=>{
                                 className: "flex flex-col",
                                 children: [
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                                        className: "text-xl font-bold",
+                                        className: "text-2xl font-bold text-blue-700 text-center",
                                         children: "Location"
                                     }, void 0, false, {
                                         fileName: "src/components/Main/ContactMe.jsx",
@@ -362012,8 +362009,8 @@ const ContactMe = ()=>{
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                                        className: "text-xl text-zinc-500",
-                                        children: "Pune, India"
+                                        className: "text-xl text-gray-800",
+                                        children: "Located in Pune, India"
                                     }, void 0, false, {
                                         fileName: "src/components/Main/ContactMe.jsx",
                                         lineNumber: 19,
@@ -362033,7 +362030,7 @@ const ContactMe = ()=>{
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                            className: "flex gap-5 items-centerem",
+                            className: "flex gap-5 items-center",
                             children: [
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
                                     className: "p-3 rounded-full shadow-xl",
@@ -362053,34 +362050,24 @@ const ContactMe = ()=>{
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                    className: "flex flex-col",
-                                    children: [
-                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                                            className: "text-xl font-bold",
-                                            children: "Mail"
+                                    className: "flex flex-col items-center",
+                                    children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
+                                        className: "text-zinc-500 hover:text-blue-500",
+                                        href: "mailto:Tusharborul45@gmail.com",
+                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                                            className: "text-xl text-blue-600 hover:underline",
+                                            children: "Tusharborul45@gmail.com"
                                         }, void 0, false, {
                                             fileName: "src/components/Main/ContactMe.jsx",
-                                            lineNumber: 28,
-                                            columnNumber: 15
-                                        }, undefined),
-                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                                            className: "text-zinc-500 hover:text-blue-500",
-                                            href: "mailto:Tusharborul45@gamil.com",
-                                            children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                                                className: "text-xl ",
-                                                children: "Tusharborul45@gamil.com"
-                                            }, void 0, false, {
-                                                fileName: "src/components/Main/ContactMe.jsx",
-                                                lineNumber: 33,
-                                                columnNumber: 17
-                                            }, undefined)
-                                        }, void 0, false, {
-                                            fileName: "src/components/Main/ContactMe.jsx",
-                                            lineNumber: 29,
-                                            columnNumber: 15
+                                            lineNumber: 33,
+                                            columnNumber: 17
                                         }, undefined)
-                                    ]
-                                }, void 0, true, {
+                                    }, void 0, false, {
+                                        fileName: "src/components/Main/ContactMe.jsx",
+                                        lineNumber: 29,
+                                        columnNumber: 15
+                                    }, undefined)
+                                }, void 0, false, {
                                     fileName: "src/components/Main/ContactMe.jsx",
                                     lineNumber: 27,
                                     columnNumber: 13
@@ -362105,7 +362092,7 @@ const ContactMe = ()=>{
         ]
     }, void 0, true, {
         fileName: "src/components/Main/ContactMe.jsx",
-        lineNumber: 6,
+        lineNumber: 7,
         columnNumber: 5
     }, undefined);
 };

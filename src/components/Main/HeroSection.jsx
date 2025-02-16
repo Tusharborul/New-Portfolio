@@ -41,7 +41,7 @@ const HeroSection = () => {
               </a>
               <a
                 className="hover:text-blue-600 flex items-center gap-2 bg-black text-white rounded-lg px-2 hover:text-lime-300"
-                href="https://drive.google.com/file/d/15sTsErbpM_h0qAU_1q74q0mORsQtLoMI/view?usp=sharing"
+                href="https://drive.google.com/file/d/18esBL79lb4Z4quALiCf7VEnplNhmEt1D/view?usp=sharing"
                 target="blank"
               >
                 <p className="text-xl font-bold">Resume</p>
@@ -65,8 +65,8 @@ const HeroSection = () => {
           </div>
           <div className="flex gap-5 w-max flex-wrap max-sm:justify-center">
             <img
-              src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,nodejs,java,mysql,git,github,"
-              alt="html,css,tailwind,bootstrap,javascript,react,nodejs,java,mysql,git,github"
+              src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nodejs,jquery,java,cs,cpp,dotnet,mysql,aws,docker,git,github,eclipse,visualstudio,vscode"
+              alt="html,css,bootstrap,javascript,react,nodejs,jquery,java,cs,cpp,dotnet,mysql,aws,docker,git,github,eclipse,visualstudio,vscode"
             />
           </div>
         </div>
