@@ -135094,7 +135094,7 @@ const AboutMe = ()=>{
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
                             className: "text-2xl font-bold text-blue-600 text-center",
-                            children: "Front-End Developer"
+                            children: "Full Stack Developer"
                         }, void 0, false, {
                             fileName: "src/components/Main/AboutMe.jsx",
                             lineNumber: 11,

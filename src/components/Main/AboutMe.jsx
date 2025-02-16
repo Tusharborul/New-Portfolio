@@ -8,7 +8,7 @@ const AboutMe = () => {
         <img className="w-2/5 rounded-lg mr-7 max-sm:w-4/5 max-sm:mx-auto" src={img} alt="" />
         <ul className="flex flex-col gap-2 p-3">
           <li className="text-blue-600 font-bold text-lg text-center">ABOUT ME</li>
-          <li className="text-2xl font-bold text-blue-600 text-center">Front-End Developer</li>
+          <li className="text-2xl font-bold text-blue-600 text-center">Full Stack Developer</li>
 
           <li className="text-lg text-gray-700 text-left mb-2" >
 
