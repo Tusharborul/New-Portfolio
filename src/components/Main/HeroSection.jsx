@@ -18,7 +18,7 @@ const HeroSection = () => {
         <div className="flex max-[500px]:flex-col-reverse items-center">
           <div className="max-w-lg">
             <h1 className="text-4xl px-3 font-bold text-zinc-700 max-sm:text-4xl max-sm:text-center max-sm:pt-2">
-              Full Stack    Developer👋
+              Full Stack Developer👋
             </h1>
             <p className="text-lg mt-4 px-3 text-neutral-600 max-sm:px-0 max-sm:text-center">
               Hi, I'm Tushar Borul. A passionate Full Stack Developer,
@@ -41,7 +41,7 @@ const HeroSection = () => {
               </a>
               <a
                 className="hover:text-blue-600 flex items-center gap-2 bg-black text-white rounded-lg px-2 hover:text-lime-300"
-                href="https://drive.google.com/file/d/18esBL79lb4Z4quALiCf7VEnplNhmEt1D/view?usp=sharing"
+                href="https://drive.google.com/file/d/1dxsFIcRMmu-f_WdU85Vi0BNbOlZJMJrN/view?usp=sharing"
                 target="blank"
               >
                 <p className="text-xl font-bold">Resume</p>

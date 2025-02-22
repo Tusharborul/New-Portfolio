@@ -70583,7 +70583,7 @@ const HeroSection = ()=>{
                             children: [
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
                                     className: "text-4xl px-3 font-bold text-zinc-700 max-sm:text-4xl max-sm:text-center max-sm:pt-2",
-                                    children: "Full Stack    Developer\uD83D\uDC4B"
+                                    children: "Full Stack Developer\uD83D\uDC4B"
                                 }, void 0, false, {
                                     fileName: "src/components/Main/HeroSection.jsx",
                                     lineNumber: 20,
@@ -70634,7 +70634,7 @@ const HeroSection = ()=>{
                                         }, undefined),
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
                                             className: "hover:text-blue-600 flex items-center gap-2 bg-black text-white rounded-lg px-2 hover:text-lime-300",
-                                            href: "https://drive.google.com/file/d/18esBL79lb4Z4quALiCf7VEnplNhmEt1D/view?usp=sharing",
+                                            href: "https://drive.google.com/file/d/1dxsFIcRMmu-f_WdU85Vi0BNbOlZJMJrN/view?usp=sharing",
                                             target: "blank",
                                             children: [
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
